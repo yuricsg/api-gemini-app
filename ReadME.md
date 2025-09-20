@@ -57,3 +57,9 @@ python api_gemini.py
 __pycache__/
 *.pyc
 .env
+
+### ⚡ Execução Rápida (one-liner)
+
+**Windows (PowerShell)**
+```powershell
+$env:GOOGLE_API_KEY="SUA_CHAVE_AQUI"; python api_gemini.py
