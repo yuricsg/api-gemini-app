@@ -52,30 +52,7 @@ python api_gemini.py
 - **Modelo configurável:** ajuste o modelo via `GEMINI_MODEL` sem mudar o código.
 - **Entradas vazias:** o app avisa quando a entrada estiver vazia.
 
-  ✅ Checklist de Execução Rápida
-
- Criar ambiente virtual (python -m venv .venv && .venv\Scripts\activate no Windows ou source .venv/bin/activate no macOS/Linux)
-
- pip install google-generativeai
-
- Definir GOOGLE_API_KEY
-
- Rodar python api_gemini.py
-
-🧪 Prompt de Exemplo
-Explique em 2 linhas o que é o modelo gemini-1.5-flash.
-
-Liste 3 aplicações simples de IA generativa para sala de aula.
-
-🗂️ (Opcional) Arquivos Úteis
-
-requirements.txt
-
-google-generativeai>=0.6.0
-
-
-.gitignore
-
+ 
 .venv/
 __pycache__/
 *.pyc
