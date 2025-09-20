@@ -3,7 +3,7 @@
 Este projeto feito para a matéria de Engenharia de Software e IA é uma aplicação simples em Python para interagir com o modelo de IA do Google Gemini. A aplicação captura a entrada do usuário (prompt), envia para a API e exibe a resposta.
 
 ### **Funcionalidades**
-- Envio de prompts para o modelo Gemini
+- Envio de prompts para o modelo Gemini.
 - Recebimento e exibição da resposta do modelo.
 
 ### 💻 **Tecnologias Utilizadas**
